@@ -1,2 +1,2 @@
 #!/bin/bash
-for a in {a..z}$'\n'do for b in {a..z}$'\n'do if [ "$a$b" != "oo" ]$'\n'then echo $a$b$'\n'fi$'\n'done$'\n'done
+for a in {a..z}$'\n'do for b in {a..z}$'\n'do if [ $a$b != oo ]$'\n'then echo $a$b$'\n'fi$'\n'done$'\n'done
