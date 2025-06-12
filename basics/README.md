@@ -1,7 +1,7 @@
 # Week 2: Shell Basics
 
-## FILE: 0-current_working_directory
-### 0. Where am I?
+###FILE: 0-current_working_directory
+**0. Where am I?**\
 Write a script that prints the absolute path name of the current working directory.
 
 ### FILE: 1-listit
@@ -9,17 +9,17 @@ Write a script that prints the absolute path name of the current working directo
 Display the contents list of your current directory.
 
 ### FILE: 2-bring_me_home
-##2. There is no place like home
+**2. There is no place like home**\
 Write a script that changes the working directory to the user’s home directory.
 - You are not allowed to use any shell variables
 
-###FILE: 3-listfiles
-##3. The long format
+### FILE: 3-listfiles
+**3. The long format**\
 Display current directory contents in a long format
 
-###FILE: 4-listmorefiles
-##4. Hidden files
-Display current directory contents, including hidden files (starting with .). Use the long format.
+### FILE: 4-listmorefiles
+**4. Hidden files**\
+Display current directory contents, including hidden files (starting with `.`). Use the long format.
 
 ###FILE: 5-listfilesdigitonly
 ##5. I love numbers
