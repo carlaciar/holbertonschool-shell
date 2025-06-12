@@ -1,4 +1,4 @@
-#Week 2: Shell Basics
+# Week 2: Shell Basics
 
 ###FILE: 0-current_working_directory
 ##0. Where am I?
