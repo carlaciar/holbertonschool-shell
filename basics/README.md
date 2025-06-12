@@ -1,7 +1,7 @@
 # Week 2: Shell Basics
 
-###FILE: 0-current_working_directory
-##0. Where am I?
+### 0. Where am I?
+**FILE: 0-current_working_directory**
 Write a script that prints the absolute path name of the current working directory.
 
 ###FILE: 1-listit
